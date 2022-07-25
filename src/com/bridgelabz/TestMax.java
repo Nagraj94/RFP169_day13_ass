@@ -4,8 +4,8 @@ public class TestMax {
 
     public static void main(String[] args) {
         String a = "Apple";
-        String b = "Peach";
-        String c = "Banana";
+        String b = "Banana";
+        String c = "Peach";
         String max;
 
         max = a;
