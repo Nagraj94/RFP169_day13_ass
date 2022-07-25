@@ -3,8 +3,8 @@ package com.bridgelabz;
 public class TestMax {
 
     public static void main(String[] args) {
-        String a = "Peach";
-        String b = "Apple";
+        String a = "Apple";
+        String b = "Peach";
         String c = "Banana";
         String max;
 
