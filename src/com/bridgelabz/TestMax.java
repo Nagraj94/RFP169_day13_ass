@@ -3,9 +3,9 @@ package com.bridgelabz;
 public class TestMax {
 
     public static void main(String[] args) {
-        float a = 50.55f; //50, 90, 20
+        float a = 90.99f; //50, 90, 20
         float b = 20.22f;
-        float c = 90.99f;
+        float c = 50.55f;
         float temp;
         float temp1;
         temp = a > b ? a:b;
